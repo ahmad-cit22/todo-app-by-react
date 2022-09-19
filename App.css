@@ -1,0 +1,36 @@
+body {
+  background: rgba(72, 93, 155, 0.188) !important;
+}
+
+
+.container {
+  width: 600px !important;
+  background: rgba(15, 58, 152, 0.218);
+  padding: 40px 60px;
+  border-radius: 20px;
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  -ms-border-radius: 20px;
+  -o-border-radius: 20px;
+}
+
+form {
+  padding: 0 50px;
+}
+
+.taskList {
+  width: 900px !important;
+  background: rgba(37, 60, 109, 0.464);
+}
+
+
+.addTaskBtn{
+  width: 20%;
+  margin: auto;
+  font-size: 18px !important;
+  border-radius: 13px !important;
+  -webkit-border-radius: 13px !important;
+  -moz-border-radius: 13px !important;
+  -ms-border-radius: 13px !important;
+  -o-border-radius: 13px !important;
+}
